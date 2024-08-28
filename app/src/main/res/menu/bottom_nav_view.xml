@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miExplore"
+        android:title="Explore"
+        android:icon="@drawable/ic_explore"/>
+
+    <item
+        android:id="@+id/miFindMyGuide"
+        android:title="Find My Guide"
+        android:icon="@drawable/ic_find_my_guide"/>
+
+    <item
+        android:id="@+id/miAccount"
+        android:title="Account"
+        android:icon="@drawable/ic_account"/>
+
+</menu>

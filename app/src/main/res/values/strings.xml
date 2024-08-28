@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string-array name="spinner_items">
+        <item>Within city(50 KM)</item>
+        <item>Around(150 KM)</item>
+        <item>One night away(500 KM)</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TravelApp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:dropDownSpinnerStyle">@drawable/baseline_arrow_drop_down_24</item>
+        <item name="backgroundTint">@null</item>
+        <item name="popupTheme">@style/CustomSpinnerStyle</item>
+    </style>
+</resources>
